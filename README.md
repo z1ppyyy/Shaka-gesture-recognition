@@ -1,5 +1,5 @@
 # Shaka-gesture-recognition
-🤙 Recognizing "Hand Gesture" using OpenCV and Python.
+🤙 Recognizing "Shaka Gesture" using OpenCV and Python.
 
 This software detects the shaka gesture in real-time video by identifying hand landmarks using machine learning algorithms. It first looks for the position of the thumb and pinky fingers, and from there, it identifies other relevant landmarks. It then compares these features to training data to confirm the presence of a shaka gesture. If the gesture is detected, the software overlays a predefined image on the video feed.
 
